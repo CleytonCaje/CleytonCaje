@@ -1,7 +1,5 @@
-<h1 align="center">Hi there, I'm Luiza and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>   
+<h1 align="center">Hi there, I'm Cleyton and it's nice to have you around! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>   
 
-- :mortar_board: I have Law bachelor's degree (2016) and started professional transition to web development in 2021 
-- :briefcase: I work as Full Stack Developer Intern at [IBM](https://www.linkedin.com/company/ibm/)
 - :open_book: I'm studying Technologist in Information of Systems at University Tiradentes
 - :man_student: My graduation estimate date: December 2024   
 - :thought_balloon: Tips and suggestions are always welcome, feel free to contact me!
@@ -12,7 +10,7 @@
 <a href="https://spring.io/projects/spring-boot/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="35" height="35"/> </a>
 
 ## Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizabchagas/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleytoncaje/) 
 
 
 <!--
